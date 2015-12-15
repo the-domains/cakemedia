@@ -1,0 +1,28 @@
+name: CakeMedia
+favicon: null
+layout_spectrum: 0.9694198605138808
+typography_spectrum: 0.962011011550203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9988968465477228
+  lightness: 0.9140867874957621
+  saturation: 0.22139207506552339
+  rhythmicContrast: 0.710156510816887
+purpose: []
